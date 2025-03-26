@@ -1,0 +1,8 @@
+{"level":"info","message":"Operation: add, Numbers: 10, 5, Result: 15"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"info","message":"Operation: subtract, Numbers: 10, 5, Result: 5"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"info","message":"Operation: multiply, Numbers: 10, 5, Result: 50"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"info","message":"Operation: divide, Numbers: 10, 5, Result: 2"}
+{"level":"error","message":"Invalid input parameters"}
